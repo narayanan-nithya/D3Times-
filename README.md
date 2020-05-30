@@ -1,4 +1,4 @@
-# Correlations Discovered Between Healthcare and Poverty Statewise in USA
+# Correlations Discovered Between Healthcare and Poverty: Statewise in USA
 
 This scatter plot was created using the census gov dataset provided which details the statewise income,poverty,healthcare%,obesity and smoking habits based on age. I evaluated the Healthcare vs Poverty %. </p> <p>Texas has the highest poverty percentage and lack of healthcare together. New Hampshire being the state with lowest poverty percentage.Massachusetts with the lowest lack of healthcare %.
 
